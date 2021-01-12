@@ -14,6 +14,7 @@ function paintToDo(text) {
     li.appendChild(span);
     toDoList.appendChild(li);
 }
+//pullrequest 연습
 
 function handleSubmit(event){
     event.preventDefault();
